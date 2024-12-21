@@ -72,9 +72,11 @@ body {
   font-size: 28px;
   text-align: center;
   line-height: 25px;
-  top: 19px;
-  left: 85px;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
   color: #003049;
+  width: 200px;
 }
 
 .heart {
